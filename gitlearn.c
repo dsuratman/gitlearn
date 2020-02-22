@@ -19,6 +19,5 @@ int main(void)
 	/* This is a special mod in master only */
 	/* dev branch commit 8 */
 	/* dev branch commit 7 */
-
 	return 0;
 }

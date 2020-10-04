@@ -2,6 +2,14 @@
 #include <stdio.h>
 
 /*
+ * substract function
+ */
+int substract(unsigned int a, unsigned int b)
+{
+	return (a - b);
+}
+
+/*
  * main function
  *
  */

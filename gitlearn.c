@@ -20,6 +20,9 @@ int main(void)
 	i = 2;
 	j = 3;
 	printf("i + j = %d\n", i+j);
+
+	printf("i * j = %d\n", i*j);
+
 	/* Let's add more comment here */
 	/* This is a special mod in master only */
 	/* dev branch commit 8 */
